@@ -1,0 +1,29 @@
+_repo: Samantha-at-Saratoga_3425
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Husbands -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Saratoga Springs (N.Y.) -- Fiction'
+title: Samantha at Saratoga
+url: http://www.gutenberg.org/ebooks/3425
