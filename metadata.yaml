@@ -1,5 +1,5 @@
 _repo: Samantha-at-Saratoga_3425
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Rich people -- Fiction'
 - !lcsh 'Manners and customs -- Fiction'
 - !lcsh 'Saratoga Springs (N.Y.) -- Fiction'
+- GITenberg
 title: Samantha at Saratoga
 url: http://www.gutenberg.org/ebooks/3425
